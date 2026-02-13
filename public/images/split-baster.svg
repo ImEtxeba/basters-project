@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1080" viewBox="0 0 960 1080">
+  <rect width="960" height="1080" fill="#1a1610"/>
+  <rect x="80" y="200" width="800" height="500" rx="12" fill="#221e15" opacity="0.8"/>
+  <circle cx="480" cy="450" r="150" fill="#c9a96e" opacity="0.15"/>
+  <circle cx="480" cy="450" r="80" fill="#c9a96e" opacity="0.1"/>
+  <text x="480" y="460" font-family="sans-serif" font-size="16" fill="#666" text-anchor="middle">BASTER  Tapas concept photo</text>
+</svg>

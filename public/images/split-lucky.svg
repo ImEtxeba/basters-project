@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1080" viewBox="0 0 960 1080">
+  <rect width="960" height="1080" fill="#151010"/>
+  <rect x="80" y="200" width="800" height="500" rx="12" fill="#1e1515" opacity="0.8"/>
+  <circle cx="480" cy="450" r="150" fill="#c4391c" opacity="0.15"/>
+  <circle cx="480" cy="450" r="80" fill="#c4391c" opacity="0.1"/>
+  <text x="480" y="460" font-family="sans-serif" font-size="16" fill="#666" text-anchor="middle">LUCKY BASTER  Burger concept photo</text>
+</svg>

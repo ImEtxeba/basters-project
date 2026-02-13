@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="lbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1010"/>
+      <stop offset="100%" style="stop-color:#251818"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#lbg)"/>
+  <circle cx="960" cy="500" r="200" fill="#c4391c" opacity="0.08"/>
+  <circle cx="960" cy="500" r="350" fill="#c4391c" opacity="0.04"/>
+  <rect x="600" y="600" width="720" height="3" fill="#c4391c" opacity="0.3"/>
+  <text x="960" y="540" font-family="sans-serif" font-size="18" fill="#555" text-anchor="middle">LUCKY BASTER HERO  Replace with burger/interior photo</text>
+</svg>
